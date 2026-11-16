@@ -6,6 +6,8 @@
   "textSourceDescription": "Foinse",
   "textSource": "Gníomhaireacht Drugaí an Aontais Eorpaigh",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "legend1": "Níl aon sonraí ar fáil",
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
   "extraInfo_AT": "Bliain an tsuirbhé: 2020",
   "extraInfo_BE": "Bliain suirbhé: 2024",
   "extraInfo_BG": "Bliain suirbhé: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Bliain suirbhé: 2023",
   "extraInfo_HU": "Bliain suirbhé: 2023",
   "extraInfo_IE": "Bliain suirbhé: 2023",
-  "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "de dhaoine fásta",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "customUnitLabel": "de dhaoine fásta"
 }

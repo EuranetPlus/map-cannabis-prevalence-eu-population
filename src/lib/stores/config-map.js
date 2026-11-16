@@ -1,4 +1,5 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "Prevalence of cannabis in the EU population",
   "subtitle": "Share of cannabis use in the European Union in 2024 among the European population aged 15 to 64 (or most recent data available)",

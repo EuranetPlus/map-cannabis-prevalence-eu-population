@@ -1,11 +1,13 @@
 {
-  "title": "Forekomsten af cannabis i EU's befolkning",
+  "title": "Udbredelsen af cannabis i EU's befolkning",
   "subtitle": "Andel af cannabisbrug i Den Europæiske Union i 2024 blandt den europæiske befolkning i alderen 15 til 64 år (eller de seneste tilgængelige data)",
   "textNoteDescription": "Note",
   "textNote": "Undersøgelsesdata for Grækenland er fra 2015 og for Luxembourg fra 2019.",
   "textSourceDescription": "Kilde",
   "textSource": "Den Europæiske Unions Narkotikaagentur",
   "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her",
   "extraInfo_AT": "Undersøgelsesår: 2020",
   "extraInfo_BE": "Undersøgelsesår: 2024",
   "extraInfo_BG": "Undersøgelsesår: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Undersøgelsesår: 2023",
   "extraInfo_HU": "Undersøgelsesår: 2023",
   "extraInfo_IE": "Undersøgelsesår: 2023",
-  "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "af voksne",
-  "tooltipExtraInfoLabel": "Klik her"
+  "customUnitLabel": "af voksne"
 }
